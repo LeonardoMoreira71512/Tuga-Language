@@ -1,0 +1,11 @@
+// Operações lógicas válidas
+
+escreve verdadeiro e verdadeiro;
+escreve verdadeiro e falso;
+escreve falso e verdadeiro;
+escreve falso e falso;
+
+escreve verdadeiro ou verdadeiro;
+escreve verdadeiro ou falso;
+escreve falso ou verdadeiro;
+escreve falso ou falso;

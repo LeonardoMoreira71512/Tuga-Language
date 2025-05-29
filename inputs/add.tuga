@@ -1,0 +1,2 @@
+escreve 1 + 2 * 3.0;
+escreve "ola" + "maria";

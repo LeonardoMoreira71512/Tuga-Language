@@ -1,0 +1,16 @@
+funcao sqr( x: inteiro ): inteiro
+inicio
+    retorna x * x;
+fim
+
+funcao sqrsum( a: inteiro, b: inteiro ): inteiro
+inicio
+    s: inteiro;
+    s <- sqr(a + b);
+    retorna s;
+fim
+
+funcao principal()
+inicio
+   escreve sqrsum(3,2);
+fim

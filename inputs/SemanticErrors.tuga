@@ -1,0 +1,10 @@
+escreve verdadeiro - 5;              // boolean - int
+escreve "ola" - 3;                   // string - int
+escreve 3.14 e falso;                // double AND boolean
+escreve 1.2 + verdadeiro;            // double + boolean
+escreve "a" / "b";                   // string / string
+escreve 5 igual "5";                // int == string
+escreve verdadeiro + falso;         // boolean + boolean
+escreve nao 4.2;                    // nao aplicado a double
+escreve nao "string";               // nao aplicado a string
+escreve 2 % 3.5;                    // int % double

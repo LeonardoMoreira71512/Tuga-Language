@@ -1,0 +1,15 @@
+funcao max(a: inteiro, b: inteiro): inteiro
+inicio
+    se (a > b) retorna a;
+    senao retorna b;
+fim
+
+funcao principal()
+inicio
+    x, y: inteiro;
+    z: inteiro;
+    x <- 3;
+    y <- 5;
+    z <- max(x, y);
+    escreve z;
+fim

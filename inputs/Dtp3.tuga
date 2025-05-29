@@ -1,0 +1,16 @@
+funcao func(): inteiro
+inicio
+    x, y: inteiro;
+    inicio
+        a, b, c: inteiro;
+        escreve "Oi";
+        retorna 1;
+    fim
+    escreve "Ai";
+fim
+
+funcao principal()
+inicio
+    x: inteiro;
+    x <- func();
+fim

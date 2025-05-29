@@ -1,0 +1,25 @@
+// Igualdade e diferença entre todos os tipos suportados
+
+// booleano
+escreve verdadeiro igual verdadeiro;
+escreve verdadeiro diferente falso;
+
+// inteiro vs inteiro
+escreve 2 igual 2;
+escreve 2 diferente 3;
+
+// inteiro vs real
+escreve 2 igual 2.0;
+escreve 3 diferente 3.14;
+
+// real vs inteiro
+escreve 2.0 igual 2;
+escreve 3.14 diferente 3;
+
+// real vs real
+escreve 1.1 igual 1.1;
+escreve 1.1 diferente 2.2;
+
+// string vs string
+escreve "ola" igual "ola";
+escreve "ola" diferente "adeus";

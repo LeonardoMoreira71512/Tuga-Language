@@ -1,0 +1,24 @@
+funcao principal()
+inicio
+    aa, bb: inteiro;
+    aa <- 1;
+    inicio
+        cc: inteiro;
+        cc <- 2;
+        inicio
+            dd, ee: inteiro;
+            dd <- 3;
+            inicio
+                ff: inteiro;
+                ff <- 4;
+            fim
+            ee <- 5;
+        fim
+    fim
+    bb <- 6;
+    inicio
+        gg: inteiro;
+        gg <- 7;
+        escreve gg;
+    fim
+fim

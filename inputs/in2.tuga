@@ -1,0 +1,12 @@
+funcao soma(inteiro a, inteiro b): inteiro
+inicio
+    inteiro resultado;
+    resultado := a + b;
+    retorna resultado
+fim
+
+funcao principal(): vazio
+inicio
+    x := soma(3, 4);
+    escreve x
+fim

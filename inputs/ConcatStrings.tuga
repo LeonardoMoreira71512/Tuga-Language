@@ -1,0 +1,27 @@
+// booleano + string
+escreve verdadeiro + " mundo";
+escreve falso + " é feio";
+
+// string + booleano
+escreve "bonito? " + verdadeiro;
+escreve "mentira? " + falso;
+
+// inteiro + string
+escreve 42 + " é a resposta";
+escreve 0 + " graus";
+
+// string + inteiro
+escreve "idade: " + 23;
+escreve "ano " + 2024;
+
+// real + string
+escreve 3.14 + " pi";
+escreve 0.0 + " zero";
+
+// string + real
+escreve "pi é " + 3.14;
+escreve "taxa: " + 0.05;
+
+// string + string
+escreve "Olá, " + "mundo!";
+escreve "Bom" + " dia";

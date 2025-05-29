@@ -1,0 +1,63 @@
+// inteiro < inteiro
+escreve 3 < 5;
+escreve 10 < 2;
+
+// inteiro > inteiro
+escreve 9 > 4;
+escreve 1 > 8;
+
+// inteiro <= inteiro
+escreve 3 <= 3;
+escreve 7 <= 10;
+
+// inteiro >= inteiro
+escreve 5 >= 5;
+escreve 4 >= 9;
+
+// inteiro < real
+escreve 3 < 3.5;
+escreve 6 < 5.0;
+
+// inteiro > real
+escreve 10 > 9.9;
+escreve 1 > 2.5;
+
+// inteiro <= real
+escreve 4 <= 4.0;
+escreve 7 <= 6.9;
+
+// inteiro >= real
+escreve 8 >= 7.99;
+escreve 2 >= 2.5;
+
+// real < inteiro
+escreve 2.5 < 3;
+escreve 7.1 < 7;
+
+// real > inteiro
+escreve 5.5 > 5;
+escreve 0.9 > 2;
+
+// real <= inteiro
+escreve 6.0 <= 6;
+escreve 9.5 <= 8;
+
+// real >= inteiro
+escreve 4.0 >= 4;
+escreve 1.1 >= 1;
+
+// real < real
+escreve 2.2 < 2.3;
+escreve 9.8 < 9.7;
+
+// real > real
+escreve 3.3 > 2.2;
+escreve 1.5 > 1.9;
+
+// real <= real
+escreve 4.4 <= 4.4;
+escreve 5.5 <= 5.4;
+
+// real >= real
+escreve 6.6 >= 6.6;
+escreve 7.7 >= 7.8;

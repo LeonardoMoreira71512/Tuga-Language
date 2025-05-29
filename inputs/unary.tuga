@@ -1,0 +1,12 @@
+// - inteiro → inteiro
+escreve -5;
+escreve -(2 + 3);
+
+// - real → real
+escreve -3.14;
+escreve -(1.0 + 2.0);
+
+// nao booleano → booleano
+escreve nao verdadeiro;
+escreve nao falso;
+escreve nao (5 < 3);

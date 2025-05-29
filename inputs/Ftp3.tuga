@@ -1,0 +1,19 @@
+funcao hello(s: string)
+inicio
+    s <- s + " SILVA";
+    escreve "hello(): " + s;
+fim
+
+funcao f(a: inteiro, b: inteiro): real
+inicio
+    retorna a + b;
+fim
+
+funcao principal()
+inicio
+    s: string;
+    s <- "Maria";
+    hello(s);
+    escreve "principal(): " + s;
+    escreve f(4, 5);
+fim

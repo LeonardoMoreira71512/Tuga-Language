@@ -1,0 +1,16 @@
+funcao sqr(x: real): real
+inicio
+    retorna x * x;
+fim
+
+funcao sqrsum(a: real, b: real): real
+inicio
+    s: real;
+    s <- a + b;
+    retorna sqr(s);
+fim
+
+funcao principal()
+inicio
+    escreve sqrsum(3, 2);
+fim

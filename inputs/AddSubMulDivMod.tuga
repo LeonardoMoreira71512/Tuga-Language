@@ -1,0 +1,24 @@
+//+ - * / % inteiro inteiro → inteiro
+escreve 5 + 3;
+escreve 10 - 4;
+escreve 2 * 6;
+escreve 8 / 2;
+escreve 7 % 4;
+
+//+ - * / inteiro real → real
+escreve 3 + 2.5;
+escreve 5 - 1.5;
+escreve 2 * 1.5;
+escreve 6 / 2.0;
+
+//+ - * / real inteiro → real
+escreve 2.5 + 3;
+escreve 4.2 - 2;
+escreve 1.5 * 2;
+escreve 9.0 / 3;
+
+//+ - * / real real → real
+escreve 1.5 + 2.5;
+escreve 4.8 - 3.2;
+escreve 2.0 * 0.5;
+escreve 5.0 / 2.5;
