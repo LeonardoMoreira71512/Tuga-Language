@@ -209,12 +209,6 @@ erro na linha 38: falta funcao principal()
 
 ---
 
-## Authors
-
-Developed for the Compilers course, 2024/2025 — Universidade do Algarve
-
----
-
 
 ## Debugging and Trace Output
 
