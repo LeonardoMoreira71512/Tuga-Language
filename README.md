@@ -40,7 +40,7 @@ The virtual machine uses a **Frame Pointer (FP)** and stack frames to support fu
 
 | Opcode | Name    | Arg  | Description                                                                 |
 |--------|---------|------|-----------------------------------------------------------------------------|
-| 46     | `lalloc`| n    | Allocates `n` local positions on the stack, initialized with `NIL`         |
+| 46     | `lalloc`| n    | Allocates `n` local positions on the stack, initialized with `NULO`         |
 | 47     | `lload` | addr | Pushes value from `Stack[FP + addr]`                                       |
 | 48     | `lstore`| addr | Pops value into `Stack[FP + addr]`                                         |
 | 49     | `pop`   | n    | Pops `n` elements from the stack                                            |
